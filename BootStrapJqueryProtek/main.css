@@ -10,3 +10,8 @@ margin-bottom:0px;
    width:500px;
    background-color:burlywood;
 }
+.bottom-section {
+    border:1px solid red;
+    height:200px;
+    background-color:aqua;
+}

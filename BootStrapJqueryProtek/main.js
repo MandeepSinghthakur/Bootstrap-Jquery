@@ -3,6 +3,9 @@
     //init function
     function init() {
         getdata();
+
+        // fade in effect;
+        $(".bottom-section").fadeOut().fadeIn(2000);
     }
 
     // call init
