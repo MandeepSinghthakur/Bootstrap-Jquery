@@ -1,0 +1,12 @@
+﻿.navbar {
+margin-bottom:0px;
+}
+.item img {
+   width: 100% !important;
+   height:200px !important;
+}
+.modal-content {
+   height:500px;
+   width:500px;
+   background-color:burlywood;
+}
